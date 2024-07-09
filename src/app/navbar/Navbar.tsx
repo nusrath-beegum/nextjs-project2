@@ -10,7 +10,7 @@ const Navbar = () => {
     <div>
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div
-          style={{ height: "100px", background: "violet" }}
+          style={{ height: "100px", background: "pink" }}
           className="container-fluid"
         >
           <Link href={'/'} className="navbar-brand">
