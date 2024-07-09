@@ -8,7 +8,7 @@ import cartIcon from "../../../public/cart.png"
 const Navbar = () => {
   return (
     <div>
-      <nav className="navbar navbar-expand-lg bg-body-tertiary  ">
+      <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div
           style={{ height: "100px", background: "violet" }}
           className="container-fluid"
