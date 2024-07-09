@@ -11,7 +11,7 @@ const Navbar = () => {
       <nav className="navbar navbar-expand-lg bg-body-tertiary  ">
         <div
           style={{ height: "100px", background: "violet" }}
-          className="container-fluid  "
+          className="container-fluid"
         >
           <Link href={'/'} className="navbar-brand">
             <Image src={logo} alt="logo" width={100} />{" "}
